@@ -1,5 +1,3 @@
-'use client';
-
 import { CarCard, Hero, CustomFilter, SearchBar } from '@/components';
 import { fetchCars } from '@/utils';
 
